@@ -252,8 +252,6 @@ btnSort.addEventListener('click', function (e) {
 /////////////////////////////////////////////////
 // LECTURES
 
-console.log(Number.parseInt('010px',2))
-
 
 
 
